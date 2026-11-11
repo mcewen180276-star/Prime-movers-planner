@@ -25,3 +25,7 @@ LIMITATIONS
 - Demo search links are search results, not individually verified video demonstrations.
 - Browser audio and fullscreen behaviour depend on device/browser support.
 - For install controls, open the GitHub Pages link in a regular browser rather than inside Messenger.
+
+VERSION 2: Circuit Plan now includes separate Detailed Class Plan and compact Instructor Cheat Sheet print buttons. Both print current edited station data. Print preview supports Save as PDF.
+
+V3: Station cards are collapsed by default, tap to expand, or use Expand All / Collapse All. Both print formats remain unchanged. Existing local data is retained on the same GitHub Pages origin.
